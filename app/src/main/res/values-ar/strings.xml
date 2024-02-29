@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Attended&amp;&amp;jobs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="OpenNavi">open navigation</string>
+    <string name="CloseNavi">close navigation</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="re_password">اعادة كلمة السر</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="forgotpassword">نسيت كلمة السر؟</string>
+    <string name="creatACC">ليس لديك حساب؟ هيا لننشئ حساب</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="latestnews">اخر الأخبار</string>
+    <string name="trainingcenter">مركز التدريب</string>
+    <string name="profile">البروفايل</string>
+    <string name="attended">الحضور</string>
+    <string name="latest_event">آخر النشاطات</string>
+    <string name="jobs">وضائف</string>
+    <string name="settings">اعدادات</string>
+    <string name="payments">طرق الدف</string>
+    <string name="privacy">الخصوصيه</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="androidfulltrack">اندرويد فل ستاك</string>
+    <string name="iosfulltrack">اي او اس فل ستاك</string>
+    <string name="qapm">كواليتي اشورنس  لتطبقات الهاتف و المواقع الالكترونيه</string>
+    <string name="android">اندرويد</string>
+    <string name="ios">اي او اس</string>
+    <string name="google">جوجل</string>
+    <string name="GoogleLastUpdates">آخر التحديثات للتطورات</string>
+    <string name="G_LATESTNEWS"> اخر تحديثاث وتطويرات جوجل  المتوافق مع الجوّال في 21 أبريل 2015، اصدرت خوارزميه تصنيف جديده وملائمه للجوال تم تصميمها لإعطاء دفعة للصفحات الملائمة للجوال في نتائج بحث Google للجوال.</string>
+    <string name="LastUpdates">اخر التحديثات</string>
+    <string name="ioslastupdat">آخر تحديثات نظام التشغيل اي او اس  لحماية عملائنا، لا تقوم شركة Apple بالإفصاح أو المناقشة أو التأكيد
+    مشكلات الأمان حتى يتم إجراء التحقيق وتوفير التصحيحات أو الإصدارات. هذا المستند
+    يسرد الإصدارات الأخيرة. لمزيد من المعلومات حول الأمان، راجع صفحة أمان منتج Apple. أنت تستطيع
+        تشفير الاتصالات مع Apple باستخدام مفتاح PGP لأمان منتج Apple.</string>
+    <string name="androidlatestnews">موقع المطورين للتعلبم</string>
+    <string name="androiddevwebsitefullnews">موقع المطورين لتعلم AOSP موجود منذ أكثر من 10 سنوات، وكانت الرؤية للمشروع غالبًا ما تكون مقتصرة على فريق Android والشركاء. وكانت العديد من هذه القيود تتأصل في احتياجات الأعمال: نحن نرغب في وجود أشياء ممتعة لنعرضها في إطلاقاتنا، ولم يتم تصميم الشيفرة بطريقة تمكننا من القيام بالمزيد بشكل علني.</string>
+    <string name="langauges">اللغات</string>
+    <string name="changepassword">تغيير كلمة السر</string>
+    <string name="rateus">قيم التطبيق</string>
+    <string name="feedback">"رأيك بالتطبيق "</string>
+    <string name="send">ارسال</string>
+    <string name="oldpass">كلمة السر القديمه</string>
+    <string name="newpass">كلمة السر الجديده</string>
+    <string name="Ar">العربيه</string>
+    <string name="EN">english</string>
+
+</resources>

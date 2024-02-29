@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Attended&amp;&amp;jobs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="OpenNavi">open navigation</string>
+    <string name="CloseNavi">close navigation</string>
+    <string name="full_name">Full name</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="re_password">re-password</string>
+    <string name="username">user name</string>
+    <string name="forgotpassword">forgot password?</string>
+    <string name="creatACC">Dont have account ? \n signup</string>
+    <string name="phone">phone number</string>
+    <string name="latestnews">latest news</string>
+    <string name="trainingcenter">TRAINING CENTER</string>
+    <string name="profile">PROFILE</string>
+    <string name="attended">ATTENDED</string>
+    <string name="latest_event">LATEST EVENT</string>
+    <string name="jobs">JOBS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="payments">PAYMENT</string>
+    <string name="privacy">PRIVACY POLICEY</string>
+    <string name="logout">LOGOUT</string>
+    <string name="androidfulltrack">Android Full Track Development</string>
+    <string name="iosfulltrack">IOS Full Track Development</string>
+    <string name="qapm">QA &amp; PM For Mobile Apps And Websites</string>
+    <string name="android">Android</string>
+    <string name="ios">IOS</string>
+    <string name="google">GOOGLE</string>
+    <string name="GoogleLastUpdates">Latest Updates of developments</string>
+    <string name="G_LATESTNEWS">Last Updates of developments What Is Mobilegeddon &amp; The Google Mobile-Friendly Update On April 21, 2015, Google released a significant new mobile-friendly ranking algorithm that’s designed to give a boost to mobile-friendly pages in Google’s mobile search results.</string>
+    <string name="LastUpdates">ios Last Updates</string>
+    <string name="ioslastupdat">last update For our customers\' protection, Apple doesn\'t disclose, discuss, or confirm security issues until an investigation has occurred and patches or releases are available. This document lists recent releases. For more information about security, see the Apple Product Security page. You can encrypt communications with Apple using the Apple Product Security PGP Key. ----------------------------------------------------------------------------------------------------------------------------</string>
+    <string name="androidlatestnews">"Android Developers \n website Learning"</string>
+    <string name="androiddevwebsitefullnews">Developers website Learning AOSP has been around for more than 10 years and visibility into the project has often been restricted to the Android Team and Partners. A lot of that has been rooted in business needs: we want to have fun things to show off at launches and the code wasn\'t factored in a way that let us do more in the open.</string>
+    <string name="langauges">langauges</string>
+    <string name="changepassword">change password</string>
+    <string name="rateus">Rate us</string>
+    <string name="feedback">feedback</string>
+    <string name="send">send</string>
+    <string name="oldpass">old password</string>
+    <string name="newpass">new-password</string>
+    <string name="Ar">ar</string>
+    <string name="EN">en</string>
+
+</resources>

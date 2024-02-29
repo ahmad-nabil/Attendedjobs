@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+  <item android:title="@string/profile"
+      android:id="@+id/profile"/>
+  <item
+      android:id="@+id/attended"
+      android:title="@string/attended" />
+  <item
+      android:id="@+id/latest_event"
+      android:title="@string/latest_event" />
+  <item
+      android:id="@+id/JOBS"
+      android:title="@string/jobs" />
+  <item
+      android:id="@+id/SETTINGS"
+      android:title="@string/settings" />
+  <item
+      android:id="@+id/PAYMENT"
+      android:title="@string/payments" />
+  <item
+      android:id="@+id/PRIVACY_POLICEY"
+      android:title="@string/privacy" />
+  <item
+      android:id="@+id/LOGOUT"
+      android:icon="@drawable/log_out"
+      android:title="@string/logout"
+      android:checked="true"/>
+
+</menu>

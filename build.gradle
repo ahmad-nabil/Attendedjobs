@@ -1,0 +1,19 @@
+buildscript {
+    repositories {
+        jcenter();
+        google();
+    }
+    dependencies {
+        classpath('com.android.tools.build:gradle:8.1.2')
+    }
+}
+ext {
+appcompatResourcesVersion= '1.6.1'}
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+    }
+}

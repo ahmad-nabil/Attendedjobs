@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Attendedjobs" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Attendedjobs" parent="Base.Theme.Attendedjobs" />
+    <style name="MenuStyle" parent="Widget.AppCompat.ActionBar">
+      <item name="android:titleTextStyle">@style/custm_text</item>
+<item name="navigationIcon">@drawable/menu</item>
+    </style>
+
+        <style name="custm_text">
+            <item name="android:fontFamily">@font/broshk</item>
+            <item name="android:textAlignment">center</item>
+    </style>
+</resources>
